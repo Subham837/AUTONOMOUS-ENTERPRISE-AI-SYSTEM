@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+langgraph
+pandas
+numpy
+scikit-learn
+sqlalchemy
+faiss-cpu
+streamlit
+openpyxl
+python-dotenv
